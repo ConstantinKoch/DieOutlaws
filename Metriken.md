@@ -12,7 +12,7 @@
 - Wie viele Kunden hat die Tankstelle am Tag -\&gt; Wie viele Liter werden verkauft? (Wenig benutzte Tankstellen sind weniger Interessant)
 - Möchte die Tankstelle „alleine&quot; oder mit mehreren Filialen beitreten?
 - Welche Features bietet die Tankstelle? Nur tanken oder ggf. auch Reifendruck, elektrische Ladestationen oder Gas. Bei mehreren Angeboten wirkt die Tankstelle in der App attraktiver
-- Lage der Tankstelle – ist sie gut oder nur durch Umwege erreichbar
+- [Lage der Tankstelle – ist sie gut oder nur durch Umwege erreichbar] --> Lage der Tankstelle ist unwichtig, wenn sie genug verkaufte Einheiten und Kunden hat (bzw sie lässt sich daraus zum Teil ableiten, muss also nicht extra abgefragt und überprüft werden)
 
 **Nutzungs-Metriken** (wie viele Nutzer benutzen die App).
 
