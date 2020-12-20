@@ -4,7 +4,7 @@ Dieses Repository stellt die Abgabe des Teams DieOutlaws dar:
 - [Präsentation](Intelligent_Tanken.pptx)
 - [Metriken](Metriken.md)
 - [Produkt Vision Board](ProductVisionBoard.jpg)
-- [Qualitätsstandardmatrix](Qualitätsstandardmatrix.png)
+- [Qualitätsstandardmatrix](matrix.md)
 - [Risiken](Risiken.pdf)
 - [Organisation & Umsetzung](Selbstbeschreibung.md)
 
