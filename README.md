@@ -6,7 +6,7 @@ Dieses Repository stellt die Abgabe des Teams DieOutlaws dar:
 - [Produkt Vision Board](ProductVisionBoard.jpg)
 - [Qualitätsstandardmatrix](Qualitätsstandardmatrix.png)
 - [Risiken](Risiken.pdf)
-- [Selbstbeschreibung](Selbstbeschreibung.md)
+- [Organisation & Umsetzung](Selbstbeschreibung.md)
 
 Teilnehmer: Tobias Hoffmann, Constantin Koch, Florian Kraus, Christian Leingang, Philipp Lerch
 
